@@ -70,3 +70,5 @@ ehthumbs.db
 *.msi
 *.msm
 *.msp
+
+.mvn/
