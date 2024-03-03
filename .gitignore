@@ -24,10 +24,6 @@ log/
 lib/
 bin/
 
-# Application properties
-application.yml
-application.properties
-
 # Eclipse-specific files
 .settings/
 
@@ -70,3 +66,5 @@ ehthumbs.db
 *.msi
 *.msm
 *.msp
+
+.mvn/
